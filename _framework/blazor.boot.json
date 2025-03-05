@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "CodeGarap",
   "resources": {
-    "hash": "sha256-euS7RDrfXFebKTpw8kWBUNHOLPTCbVqHF0K71fpoUK0=",
+    "hash": "sha256-9tD/2O/4vj1LTjOQ5RQgLCFVhV7AsnSvltv2EV7gYQc=",
     "jsModuleNative": {
-      "dotnet.native.8.0.13.02b0hjnk5h.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
+      "dotnet.native.8.0.13.by5b0xxbcw.js": "sha256-dcTLUjNiJnDaaRmLhU5fCowKDmHMYrFHU8jWeEywfzM="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.13.d8cfmjo7u2.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
+      "dotnet.runtime.8.0.13.antszkelre.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-XhsharnkthjahGEiBkFjCLc/87/Tecti9860TIEq0H0="
+      "dotnet.native.wasm": "sha256-X4DmUqaiPRVhC4JhvtDjKHcrMjN741LnFc8eygNWqp8="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CodeGarap.wasm": "sha256-aKWjLAkoJk6OpzCc5c930g6E8rIzqicQ5nLHLhDFIH0=",
+      "CodeGarap.wasm": "sha256-L6OiP+YuJ+XStbkcpXgoyX0DuufY4yVJbGHBc5TJlH8=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-TkL8BK0Ag1NDtqXGlafzvdzi+HvFtcAN1Mtjz/EKbuw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-c94VPS7UNkWvr69OHllh0O4FPFX8K0jq9DxgmHXFkK0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-EOW7NTq6Z5cN1wJdOFXq0tgt5ANMagdBxGdA21WU2lQ=",
