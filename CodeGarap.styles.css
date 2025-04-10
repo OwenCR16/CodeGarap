@@ -169,6 +169,15 @@ main[b-96b2qhe2cv] {
     width: 50em;
 }
 
+@media screen and (max-width: 700px) {
+    #summary[b-zvskhwckzx] {
+        width: 100%;
+    }
+    #section[b-zvskhwckzx]{
+        width: 100%;
+    }
+}
+
 #disclaimer[b-zvskhwckzx] {
     border: 1px solid red;
     padding-left: 1em;
@@ -186,6 +195,15 @@ main[b-96b2qhe2cv] {
 
 #section[b-ut3ozt52pu] {
     width: 50em;
+}
+
+@media screen and (max-width: 700px) {
+    #summary[b-ut3ozt52pu] {
+        width: 100%;
+    }
+    #section[b-ut3ozt52pu]{
+        width: 100%;
+    }
 }
 
 #diagram[b-ut3ozt52pu] {
@@ -226,6 +244,12 @@ main[b-96b2qhe2cv] {
 
 #section[b-wt20gy7ymf] {
     width: 50em;
+}
+
+@media screen and (max-width: 700px) {
+    #section[b-wt20gy7ymf]{
+        width: 100%;
+    }
 }
 
 #diagram[b-wt20gy7ymf] {
@@ -358,6 +382,12 @@ main[b-96b2qhe2cv] {
 /* /Pages/ShortHelp.razor.rz.scp.css */
 #section[b-kxlbujmlfw] {
     width: 50em;
+}
+
+@media screen and (max-width: 700px) {
+    #section[b-kxlbujmlfw]{
+        width: 100%;
+    }
 }
 
 #diagram[b-kxlbujmlfw] {
